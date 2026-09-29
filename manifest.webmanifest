@@ -6,8 +6,8 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0a0e14",
-  "theme_color": "#0a0e14",
+  "background_color": "#EEF2F4",
+  "theme_color": "#EEF2F4",
   "categories": ["productivity", "lifestyle"],
   "share_target": {
     "action": "./share",
